@@ -1,4 +1,4 @@
-## 👨‍💻 Hi, I’m Hedinyer — Veteran AI Engineer from Bogotá  
+## 👨‍💻 Hi, I’m Hedinyer — AI Engineer from Colombia
 *Building **real-world AI solutions** that cut through the noise (and reporting time)*  
 
 ### 🔍 What I Do  
